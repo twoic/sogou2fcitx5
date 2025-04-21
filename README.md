@@ -1,0 +1,1 @@
+# sogou2fcitx5
