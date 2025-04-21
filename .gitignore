@@ -1,0 +1,28 @@
+# Python 编译缓存
+__pycache__/
+*.py[cod]
+*.so
+
+# IDE配置
+.idea/
+*.iml
+
+# 虚拟环境
+venv/
+.env/
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.swp
+
+# 操作系统垃圾
+.DS_Store
+Thumbs.db
+
+# 已下载词库和构建产物（可选）
+sogou_scel/
+build_fcitx5/
+

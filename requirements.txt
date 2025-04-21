@@ -1,0 +1,4 @@
+requests>=2.20.0
+beautifulsoup4>=4.9.0
+tqdm>=4.60.0
+speedtest-cli>=2.1.3
